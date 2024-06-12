@@ -1,1 +1,2 @@
-print("Jornada SQL")
+if __name__ == "main":
+    print("Hello World!")
